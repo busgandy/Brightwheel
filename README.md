@@ -33,3 +33,5 @@ Clone this repository and initiate these commands accordingly:
 - Set up monitoring and alerting using Amazon CloudWatch and AWS Lambda for automated incident response.
 - Implement infrastructure as code for other AWS services used by the teams, such as EKS, CloudFront, and Redshift.
 
+After successfull implementation, you should have something like this:
+![Image description](images/Screenshot 2023-04-25 at 02.08.25.png)
